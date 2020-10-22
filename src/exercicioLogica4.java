@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class exercicioLogica4 {
 
@@ -25,3 +25,4 @@ public class exercicioLogica4 {
 		}
 		
 	}
+*/
