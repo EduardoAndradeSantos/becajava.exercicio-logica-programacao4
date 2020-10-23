@@ -29,11 +29,11 @@ public class Bhaskara {
 	}
 
 	public void CalculaX1() {
-		X1 = ((-B) + (Math.sqrt(Delta))) / 2 * A;
+		X1 = ((-B) + (Math.sqrt(Delta))) / (2 * A);
 	}
 
 	public void CalculaX2() {
-		X2 = ((-B) - (Math.sqrt(Delta))) / 2 * A;
+		X2 = ((-B) - (Math.sqrt(Delta))) / (2 * A);
 	}
 
 	public void ImprimeResultado() {
